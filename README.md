@@ -5,7 +5,7 @@ Requirements
     php >= 5.4.0 
     
 How to use it?
-just copy the file random-colors-3-rectangles.php to your class directory. 
+just copy the file class.random-colors-3-rectangles.php to your class directory. 
 
 	  $artwork = new rectanglesrandomfilled( );
     
