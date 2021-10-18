@@ -63,6 +63,6 @@ class rectanglesrandomfilled  {
   }	
 }
 	
-	  $artwork = new rectanglesrandomfilled( );
+	
     
  ?>
