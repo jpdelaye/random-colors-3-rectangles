@@ -11,7 +11,7 @@ just copy the file class.random-colors-3-rectangles.php to your class directory.
     
 It will output 3 sgv rectangles filled with a random color each one. 
 
-working sample: https://intelector.com/rectangles-random-filled/
+working sample: https://intelector.com/?p=440
 
 Note: This class will be the base to create the project MONOCREATE. 
 
